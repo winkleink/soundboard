@@ -1,0 +1,65 @@
+# Text at the top
+[Babes in the Wood]
+
+# Act1 Buttons
+[8]
+
+# Act2 Buttons
+[10]
+
+
+# Act1 Text
+[Overture]
+[Fairy Entrance]
+[Fairy Ringtone]
+[Thunder]
+[All I Do]
+[I Have Dreamed]
+[Bad Guys]
+[School Bell]
+
+# Act2 Text
+[Overture]
+[Fairy Entrance]
+[Archers Theme]
+[In the Greenwood]
+[Oo-de-lally]
+[Arrow Shot]
+[Audience Slow]
+[Audience Fast]
+[Walkdown]
+[Knock on Wood]
+
+
+# Act1 Sound
+[Overture.ogg]
+[Fairy_Entrance.ogg]
+[Fairy_Ringtone.ogg]
+[Thunder.ogg]
+[All_I_Do.ogg]
+[I_have_dreamed.ogg]
+[Bad_Guys.ogg]
+[School_Bell.ogg]
+
+# Act2 Sound
+[Overture.ogg]
+[Fairy_Entrance.ogg]
+[Archers_Theme.ogg]
+[In_the_Greenwood.ogg]
+[Oo-de-lally.ogg]
+[Arrow_Shot.ogg]
+[Audience_Robin_Hood_Slow.ogg]
+[Audience_Robin_Hood_Fast.ogg]
+[walkdown.ogg]
+[Knock_on_Wood.ogg]
+
+
+
+
+
+
+
+
+
+
+
